@@ -1,0 +1,14 @@
+mood = input("What is your mood today? ")
+
+if mood == "happy":
+    print("Great to see you happy!")
+elif mood == "nervous":
+    print("Take three deep breathes!")
+elif mood == "sad":
+    print("Cheer up, it will be a great day!")
+elif mood == "excited":
+    print("I'm getting excited just watching you!")
+elif mood == "relaxed":
+    print("What a chill start to the day.")
+else:
+    print("I don't recognize this mood.")
