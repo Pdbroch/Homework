@@ -1,0 +1,1 @@
+{"conversions": 8, "smallest": 1.6, "largest": 106.23}
